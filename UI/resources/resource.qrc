@@ -1,0 +1,19 @@
+<RCC>
+  <qresource>
+	<file>start_32px.png</file>
+    <file>stop-icon.png</file>
+    <file>pause-icon.svg</file>
+    <file>resume-icon.svg</file>
+    <file>icon.ico</file>
+    <file>logo.png</file>
+    <file>folder_32px.png</file>
+	<file>download_32px.png</file>
+	<file>cloud_download_32px.png</file>
+	<file>delete_32px.png</file>
+	<file>play_arrow_32px.png</file>
+	<file>reload_32px.png</file>
+	<file>arrow_up_32px.png</file>
+	<file>arrow_down_32px.png</file>
+	<file>camera_32px.png</file>
+  </qresource>
+</RCC>
